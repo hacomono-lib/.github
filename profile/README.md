@@ -9,7 +9,10 @@
 
 ## リポジトリ
 
-WIP
+### node packages
+
+- [type-assurer](https://github.com/hacomono-lib/type-assurer)
+- [json-fusion](https://github.com/hacomono-lib/json-fusion)
 
 ## 貢献
 
