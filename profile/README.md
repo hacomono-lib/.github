@@ -13,6 +13,9 @@
 
 - [type-assurer](https://github.com/hacomono-lib/type-assurer)
 - [json-fusion](https://github.com/hacomono-lib/json-fusion)
+- [mimic-tree](https://github.com/hacomono-lib/mimic-tree)
+- [@hacomono-lib/nuxt-sentry](https://github.com/hacomono-lib/nuxt-sentry)
+- [nuxt-typed-openapi](https://github.com/hacomono-lib/nuxt-typed-openapi)
 
 ## 貢献
 
