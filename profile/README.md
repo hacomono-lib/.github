@@ -11,9 +11,15 @@
 
 ### node packages
 
+**common js library**
+
 - [type-assurer](https://github.com/hacomono-lib/type-assurer)
 - [json-fusion](https://github.com/hacomono-lib/json-fusion)
+- [json-origami](https://github.com/hacomono-lib/json-origami)
 - [mimic-tree](https://github.com/hacomono-lib/mimic-tree)
+
+**nuxt3 modules**
+
 - [@hacomono-lib/nuxt-sentry](https://github.com/hacomono-lib/nuxt-sentry)
 - [nuxt-typed-openapi](https://github.com/hacomono-lib/nuxt-typed-openapi)
 
