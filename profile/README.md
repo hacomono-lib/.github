@@ -7,7 +7,7 @@
 
 [株式会社hacomono](https://www.hacomono.jp/) 
 
-## リポジトリ
+## Repositories
 
 ### node packages
 
@@ -17,6 +17,11 @@
 - [json-fusion](https://github.com/hacomono-lib/json-fusion)
 - [json-origami](https://github.com/hacomono-lib/json-origami)
 - [mimic-tree](https://github.com/hacomono-lib/mimic-tree)
+
+**@passerelle**
+
+- [passerelle](https://github.com/hacomono-lib/passerelle)
+- [passerelle-vue](https://github.com/hacomono-lib/passerelle-vue)
 
 **nuxt3 modules**
 
