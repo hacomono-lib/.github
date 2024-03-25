@@ -28,6 +28,10 @@
 - [@hacomono-lib/nuxt-sentry](https://github.com/hacomono-lib/nuxt-sentry)
 - [nuxt-typed-openapi](https://github.com/hacomono-lib/nuxt-typed-openapi)
 
+### gem
+
+- [deps_grapher](https://github.com/hacomono-lib/deps_grapher)
+
 ## 貢献
 
 WIP
